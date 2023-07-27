@@ -1,3 +1,5 @@
 def str_make_upper(word):
-    """Это функция!!!"""
+    """Это функция просто супер функция
+    !!!
+    """
     return str.upper(word)
