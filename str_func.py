@@ -4,4 +4,5 @@ def str_make_upper(word):
 
 def str_all_make_upper(word):
     """Эта функция круче"""
-    return str.upper(word)
+    return pass
+
